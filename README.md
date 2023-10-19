@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Benjamin West @West-Ben
-- 👀 I’m interested in AI programming, unreal software development
-- 🌱 I’m currently learning programming for ureal engine
+- 🌱 I’m currently working at NAVSEA
+- 👀 looking to get work as a software engineer or data engineer
 - 📫 How to reach me 
 benjamin.west.217@gmail.com
 
